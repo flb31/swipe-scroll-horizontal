@@ -1,0 +1,22 @@
+body{
+  font-family: Helvetica;
+}
+h2, b {
+  text-align: center;
+  display: block;
+  margin: 20px 0;
+}
+p{
+  margin: 7px 0;
+}
+div{
+  width: 500px;
+  height: 700px;
+  overflow: scroll;
+  margin: 0 auto;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  white-space: nowrap;
+  border: 1px solid #000;
+}
